@@ -1,0 +1,134 @@
+{
+    "categories": [
+      {
+        "name": "Suits",
+        "id": "1",
+        "image": "https://example.com/images/suits.jpg"
+      },
+      {
+        "name": "Swimwear",
+        "id": "2",
+        "image": "https://example.com/images/swimwear.jpg"
+      },
+      {
+        "name": "Athletic Wear",
+        "id": "3",
+        "image": "https://example.com/images/athletic-wear.jpg"
+      },
+      {
+        "name": "Skirts",
+        "id": "4",
+        "image": "https://example.com/images/skirts.jpg"
+      },
+      {
+        "name": "Accessories",
+        "id": "5",
+        "image": "https://example.com/images/accessories.jpg"
+      }
+    ],
+    "clothes": [
+        {
+            "name": "Suits 1",
+            "description": "Formal attire for professional and special occasions.",
+            "catId":"1",
+            "id":"1",
+            "url":["assets/clothes/1.jpg"],
+            "price":20,
+            "colors":{
+              "black":["xl","l","s","m"],
+              "red":["xl","l","s","m"],
+              "white":["xl","l","s","m"]
+            }
+        },
+        {
+            "name": "Suits 2",
+            "description": "Stylish and comfortable clothing for swimming and sunbathing.",
+            "catId":"1",
+            "id":"2",
+            "url":["assets/clothes/2.jpg"],
+            "price":15,
+            "colors":{
+              "black":["xxl","xl","l"],
+              "red":["l","s","m"]
+            }
+        },
+        {
+            "name": "Suits 3",
+            "description": "Functional and comfortable clothing for exercise and sports.",
+            "catId":"1",
+            "id":"3",
+            "url":["assets/clothes/3.jpg"],
+            "price":23,
+            "colors":{
+              "black":["xl","l","m"],
+              "red":["xxl","xl","l"]
+            }
+        },
+        {
+            "name": "Swimwear 1",
+            "description": "Feminine and versatile clothing for a variety of occasions.",
+            "catId":"2",
+            "id":"4",
+            "url":["assets/clothes/4.jpg"],
+            "price":25,
+            "colors":{
+              "black":["xl","l","m"],
+              "blue":["xl","l","m"],
+              "white":["xxl","xl","s"]
+            }
+        },
+        {
+            "name": "Swimwear 2",
+            "description": "Fashionable and practical items to complement any outfit.",
+            "catId":"2",
+            "id":"5",
+            "url":["assets/clothes/1.jpg"],
+            "price":20,
+            "colors":{
+              "black":["xxl","xl","l"],
+              "blue":["xl","l","s"],
+              "red":["l","s","m"]
+            }
+        },
+        {
+          "name": "cat 3",
+          "description": "Fashionable and practical items to complement any outfit.",
+          "catId":"3",
+          "id":"6",
+          "url":["assets/clothes/1.jpg"],
+          "price":21,
+          "colors":{
+            "black":["xl","l","m"],
+            "red":["xxl","xl","l","m","s"],
+            "blue":["l","s","m"]
+          }
+      },
+      {
+        "name": "cat 4",
+        "description": "Fashionable and practical items to complement any outfit.",
+        "catId":"4",
+        "id":"7",
+        "url":["assets/clothes/1.jpg"],
+        "price":19,
+        "colors":{
+          "white":["xxl","xl","l"],
+          "red":["xl","l","s"],
+          "black":["l","s","m"]
+        }
+    },
+    {
+      "name": "cat 5",
+      "description": "Fashionable and practical items to complement any outfit.",
+      "catId":"5",
+      "id":"8",
+      "url":["assets/clothes/1.jpg"],
+      "price":28,
+      "colors":{
+        "black":["xxl","xl","l","m","s"],
+        "red":["xl","l","s"],
+        "blue":["l","s","m"]
+      }
+  }
+    ]
+  }
+  
