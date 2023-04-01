@@ -3,7 +3,7 @@ import { Text, View } from 'react-native'
 import { EvilIcons } from '@expo/vector-icons';
 
 function Bell() {
-  // this is rebase test 5 local and remote 
+  // this is rebase test 5 remote and local
   return (
     <View className='w-[100%] my-5'>
         <View className='w-[90%] mx-auto my-5 flex-row items-center justify-between'>
