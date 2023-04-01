@@ -3,7 +3,19 @@ import { Text, View } from 'react-native'
 import { EvilIcons } from '@expo/vector-icons';
 
 function Bell() {
+<<<<<<< Updated upstream
   // this is rebase test 3 local and remote
+=======
+<<<<<<< Updated upstream
+  // this is rebase test 2
+=======
+<<<<<<< HEAD
+  // this is rebase test 3 local and remote
+=======
+  // this is rebase test 2
+>>>>>>> 284af35 (test rebase 2)
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
   return (
     <View className='w-[100%] my-5'>
         <View className='w-[90%] mx-auto my-5 flex-row items-center justify-between'>
