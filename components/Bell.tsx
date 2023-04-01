@@ -2,6 +2,10 @@ import { Text, View } from "react-native";
 import { EvilIcons } from "@expo/vector-icons";
 
 function Bell() {
+<<<<<<< HEAD
+=======
+  // this is rebase test 5 local and remote 
+>>>>>>> 90f99d4665676f84a936fed3d6201341559130c0
   return (
     <View className="w-[100%] my-5">
       <View className="w-[90%] mx-auto my-5 flex-row items-center justify-between">
